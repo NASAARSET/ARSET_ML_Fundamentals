@@ -9,14 +9,21 @@ Temporary repository to add materials for [ARSET Fundamentals of Machine Learnin
 | **ML Algorithms Introduction** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session1/1-ML-Algorithms-Introduction-Session1.ipynb) |
 | **Assignment Session 1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session1/Assignment-Session1.ipynb) |
 
+## Session 2 Materials:
 
-  - Session 2 Materials:
-    - 1-MODIS-EDA-Session2.ipynb
-    - 2-MODIS-Train-Session2.ipynb
-    - 3-MODIS-Eval-Session2.ipynb
-  - Session 3 Materials:
-    - 1-MODIS-Tuning.ipynb
-    - 2-MODIS-Explainability.ipynb
+| Lecture Topic | Interactive Link | 
+|---|---|
+| **MODIS EDA** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session2/1_MODIS_EDA_Session2.ipynb) |
+| **MODIS Train & Eval** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session2/2_MODIS_Train_Eval_Session2.ipynb) |
+| **Assignment Session 2** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session2/Assignment-Session2.ipynb) |
+
+## Session 3 Materials:
+
+| Lecture Topic | Interactive Link | 
+|---|---|
+| **MODIS Model Tuning** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session3/1-MODIS-Tuning-Session3.ipynb) |
+| **Model Explainability** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session3/2-MODIS-Explainability-Session3.ipynb) |
+| **Assignment Session 3** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session3/Assignment-Session3.ipynb) |
 
 ## Additional Resources
 
