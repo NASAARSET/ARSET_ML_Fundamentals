@@ -7,7 +7,7 @@ Temporary repository to add materials for [ARSET Fundamentals of Machine Learnin
 | Lecture Topic | Interactive Link | 
 |---|---|
 | **ML Algorithms Introduction** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/main/session1/1-ML-Algorithms-Introduction-Session1.ipynb) |
-| **Assignment Session 1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/main/session1/Assignment-Session1.ipynb) |
+| **Assignment Session 1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/main/session1/Assignment-Session1.ipynb) |
 
 
   - Session 2 Materials:
