@@ -1,11 +1,15 @@
 # ARSET Fundamentals of Machine Learning (ML) for Earth Science
 
-Temporary repository to add materials for [ARSET Fundamentals of Machine Learning for Earth Science](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-machine-learning-earth-science).
+Temporary repository to add materials for [ARSET Fundamentals of Machine Learning for Earth Science](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-machine-learning-earth-science). This repository contains materials for Session 1, 2, and 3.
 
-This repository contains:
+## Session 1 Materials:
 
-  - Session 1 Materials:
-    - 1-MODIS-DataDownload-Session1.ipynb
+| Lecture Topic | Interactive Link | 
+|---|---|
+| **ML Algorithms Introduction** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/main/session1/1-ML-Algorithms-Introduction-Session1.ipynb) |
+| **Assignment Session 1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/main/session1/Assignment-Session1.ipynb) |
+
+
   - Session 2 Materials:
     - 1-MODIS-EDA-Session2.ipynb
     - 2-MODIS-Train-Session2.ipynb
