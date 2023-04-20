@@ -15,7 +15,7 @@ Temporary repository to add materials for [ARSET Fundamentals of Machine Learnin
 |---|---|
 | **MODIS EDA** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session2/1_MODIS_EDA_Session2.ipynb) |
 | **MODIS Train & Eval** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session2/2_MODIS_Train_Eval_Session2.ipynb) |
-| **Assignment Session 2** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session2/Assignment-Session2.ipynb) |
+| **Assignment Session 2** | Day before Session 2 |
 
 ## Session 3 Materials:
 
@@ -23,7 +23,7 @@ Temporary repository to add materials for [ARSET Fundamentals of Machine Learnin
 |---|---|
 | **MODIS Model Tuning** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session3/1-MODIS-Tuning-Session3.ipynb) |
 | **Model Explainability** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session3/2-MODIS-Explainability-Session3.ipynb) |
-| **Assignment Session 3** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session3/Assignment-Session3.ipynb) |
+| **Assignment Session 3** | Day before Session 3 |
 
 ## Additional Resources
 
