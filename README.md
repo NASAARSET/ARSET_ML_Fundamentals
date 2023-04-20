@@ -22,7 +22,6 @@ Temporary repository to add materials for [ARSET Fundamentals of Machine Learnin
 | Lecture Topic | Interactive Link | 
 |---|---|
 | **MODIS Model Tuning** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session3/1-MODIS-Tuning-Session3.ipynb) |
-| **Model Explainability** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session3/2-MODIS-Explainability-Session3.ipynb) |
 | **Assignment Session 3** | Day before Session 3 |
 
 ## Additional Resources
