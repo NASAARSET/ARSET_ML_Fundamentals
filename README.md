@@ -94,3 +94,5 @@ If you score at least 80% then only take the **I/O on Text Files** topic. Otherw
 
 - [awesome-earth-artificial-intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence)
 - [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
+- [segment-anything-geospatial](https://github.com/opengeos/segment-geospatial)
+
