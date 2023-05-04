@@ -29,7 +29,7 @@ The final assignment will be through a Google Form where you will be answering a
 | **MODIS Model Tuning** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session3/1-MODIS-Tuning-Session3.ipynb) |
 | **MODIS Explainability** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session3/2-MODIS-Explainability-Session3.ipynb) |
 | **MODIS AutoML** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session3/3_MODIS_AutoML_Session3.ipynb) |
-| **Assignment Session 3** | Day before Session 3 |
+| **Assignment Session 3** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session3/Assignment-Session3.ipynb) |
 
 ## Additional Resources
 
